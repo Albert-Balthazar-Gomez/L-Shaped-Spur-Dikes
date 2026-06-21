@@ -3,6 +3,7 @@ pandas
 numpy
 scipy
 xlsxwriter
+openpyxl
 scikit-learn
 xgboost
 joblib
